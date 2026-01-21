@@ -1,4 +1,4 @@
-# Montaje-y-Mantenimiento-de-Computadoras
+# Montaje y Mantenimiento de Computadoras
 
 Este repositorio contiene material teórico y práctico relacionado con el **montaje, mantenimiento y fundamentos de los sistemas informáticos**, incluyendo:
 
